@@ -24,7 +24,7 @@ return [
     'items-few' => 'ёзув',
     'items-many' => 'ёзув',
     '<small>Loading &hellip;</small>' => '<small>Юкланмоқда &hellip;</small>',
-    'Actions' => 'Аммалар',
+    'Actions' => 'Амаллар',
     'Active' => 'Фаол',
     'Add Book' => 'Янги қўшиш',
     'All' => 'Ҳаммаси',
